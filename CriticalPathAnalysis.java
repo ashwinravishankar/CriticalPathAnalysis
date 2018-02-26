@@ -7,7 +7,7 @@ import java.util.*;
 //Author: Ashwin Ravishankar
 
 
-public class CPM_519 {
+public class CriticalPathAnalysis {
     public static void main(String[] args) {
         
         int[][] graphWeight = new int[18][18];
